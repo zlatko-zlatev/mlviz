@@ -1,5 +1,7 @@
 # <img alt="MLViz" src="branding/logo/mlviz_logo_v2.png" height="150">
 
+# A test update
+
 MLViz is a suite of interactive visualisation tools to assist with the exploratory analysis of (high-dimensional) datasets.
 
 It is based on the [Bokeh](https://bokeh.pydata.org/en/latest/) library and is developed to integrate with Jupyter notebooks so it can be used in existing exploratory analysis workflows.
